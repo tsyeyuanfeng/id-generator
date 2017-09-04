@@ -1,0 +1,18 @@
+{
+  "name": "@byted/id-generator",
+  "version": "1.0.0",
+  "description": "An uncentralized id generator based on mac address, process id, timestamp and random numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "id",
+    "generator",
+    "unique"
+  ],
+  "author": "Yaphet Ye <tsyeyuanfeng@126.com>",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

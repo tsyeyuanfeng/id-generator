@@ -1,0 +1,10 @@
+# MacOS
+.DS_Store
+
+# npm
+*.log
+node_modules
+
+#IDE
+.vscode
+.idea
